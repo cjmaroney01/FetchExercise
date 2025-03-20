@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchExercise</string>
+    <string name="listid">listId</string>
+    <string name="names">names</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="ok">ok</string>
+</resources>
