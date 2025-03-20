@@ -7,7 +7,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.RecyclerView
 import com.colinmaroney.fetchexercise.R
-import com.colinmaroney.fetchexercise.viewmodel.HiringViewModel
+import com.colinmaroney.fetchexercise.ui.viewmodel.HiringViewModel
 import io.mockk.CapturingSlot
 import io.mockk.clearMocks
 import io.mockk.every

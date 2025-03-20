@@ -1,4 +1,4 @@
-package com.colinmaroney.fetchexercise.viewmodel
+package com.colinmaroney.fetchexercise.ui.viewmodel
 
 import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.LiveData
@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.colinmaroney.fetchexercise.data.HiringEntry
-import com.colinmaroney.fetchexercise.network.HiringRepo
+import com.colinmaroney.fetchexercise.repository.HiringRepo
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

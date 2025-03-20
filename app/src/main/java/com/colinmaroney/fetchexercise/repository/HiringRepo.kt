@@ -1,4 +1,4 @@
-package com.colinmaroney.fetchexercise.network
+package com.colinmaroney.fetchexercise.repository
 
 import com.colinmaroney.fetchexercise.data.HiringEntry
 import com.colinmaroney.fetchexercise.service.HiringService

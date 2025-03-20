@@ -1,7 +1,7 @@
-package com.colinmaroney.fetchexercise.viewmodel
+package com.colinmaroney.fetchexercise.ui.viewmodel
 
 import com.colinmaroney.fetchexercise.data.HiringEntry
-import com.colinmaroney.fetchexercise.network.HiringRepo
+import com.colinmaroney.fetchexercise.repository.HiringRepo
 import com.colinmaroney.fetchexercise.utils.InstantTaskExecutorRuleForJUnit5
 import io.mockk.clearMocks
 import io.mockk.coEvery

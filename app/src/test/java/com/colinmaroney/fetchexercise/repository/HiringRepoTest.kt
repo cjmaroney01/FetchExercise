@@ -1,4 +1,4 @@
-package com.colinmaroney.fetchexercise.network
+package com.colinmaroney.fetchexercise.repository
 
 import com.colinmaroney.fetchexercise.service.HiringService
 import io.mockk.clearMocks

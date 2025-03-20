@@ -12,8 +12,8 @@ import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.colinmaroney.fetchexercise.R
-import com.colinmaroney.fetchexercise.network.HiringRepo
-import com.colinmaroney.fetchexercise.viewmodel.HiringViewModel
+import com.colinmaroney.fetchexercise.repository.HiringRepo
+import com.colinmaroney.fetchexercise.ui.viewmodel.HiringViewModel
 
 class MainFragment: Fragment() {
     @VisibleForTesting
